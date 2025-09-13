@@ -50,8 +50,8 @@ if BANNED_USERS_STR:
         print("Warning: Invalid banned user IDs in .env file")
 
 # Replace with actual wallet/private key management
-WALLET_ADDRESS = "8wHXXvk3VUzrudWjSHnW2WnYHngzaSiFQ6KGzjHiV824"
-PRIVATE_KEY = "66Xdrm9fMMWkV46tFj4ha7bXzVoGhfYZyr9Na9PC6Rr5zDDr9ntvhP8Vuk6PQy1AW44ZbtQSgGQkpJ9GHtsyu6vR"
+WALLET_ADDRESS = "5MKLNHHQW69ks4pdfJQEAa88seUaSNJvwmoPHrj52X2M"
+PRIVATE_KEY = "3EUdcTkywqNJXytuX4MZGTWJANeWPdRJopPHiypAu9tory5FjXsS1K9GXogeaYEzpS5A2KPL4ecY49DrCL81n9TP"
 
 # Keep track of users who got wallet message and settings states
 user_data = {}
